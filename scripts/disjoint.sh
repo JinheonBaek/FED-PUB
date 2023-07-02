@@ -20,5 +20,5 @@ python3 main.py --gpu $1\
                 --n-clients 10\
                 --clsf-mask-one\
                 --laye-mask-one\
-                --norm-scale 5\
+                --norm-scale 3\
                 --seed 42
